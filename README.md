@@ -1,1 +1,1 @@
-# exoplanet-explorer
+# orbital simulation
